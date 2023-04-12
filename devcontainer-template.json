@@ -1,0 +1,12 @@
+{
+	"id": "hugo",
+	"version": "1.0.0",
+	"name": "Hugo",
+	"description": "Develop static sites with Hugo, includes everything you need to get up and running.",
+	"documentationURL": "https://github.com/petersellars/vscode-hugo-devcontainer/tree/main",
+	"publisher": "Peter Sellars",
+	"licenseURL": "https://github.com/petersellars/vscode-hugo-devcontainer/blob/main/LICENSE",
+	"platforms": [
+		"Hugo"
+	]
+}

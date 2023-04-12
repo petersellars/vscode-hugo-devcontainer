@@ -47,5 +47,6 @@ Licensed under the MIT License. See [LICENSE](https://github.com/petersellars/vs
 ### References
 
 * [Microsoft Docs: Create a Dev Container](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
+* [Microsoft Docs: Dev Container Template Reference](https://containers.dev/implementors/templates/)
 
 * [Microsoft VSCode Hugo Configuration](https://github.com/microsoft/vscode-dev-containers/tree/main/containers/hugo)
